@@ -9,6 +9,10 @@ using System.Threading.Tasks;
  * If the list is empty or includes less than 5 numbers, 
  * display "Invalid List" and ask the user to re-try; 
  * otherwise, display the 3 smallest numbers in the list.*/
+
+
+
+//no idea what happened below *shrug*
 namespace ArraysAndListsExercises5
 {
     class Program
